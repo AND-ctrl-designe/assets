@@ -1,0 +1,11 @@
+{
+  "name": "Andromeda",
+  "symbol": "AND",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Andromeda is a community-driven token focused on restoring the original spirit of decentralization.",
+  "website": "https://and-ctrl-designe.github.io/Andromeda/",
+  "explorer": "https://bscscan.com/token/0x7E24106829BAbc184548B46067D9d05CAf93D44A",
+  "status": "active",
+  "id": "0x7E24106829BAbc184548B46067D9d05CAf93D44A"
+}
