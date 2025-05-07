@@ -1,0 +1,25 @@
+{
+    "name": "Andromeda",
+    "symbol": "AND",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Andromeda is a decentralized utility token built on Binance Smart Chain, aiming to integrate AI automation, transparent tokenomics, and long-term scalability.",
+    "website": "https://andromedacoin.site",
+    "explorer": "https://bscscan.com/token/0x7E24106829BAbc184548B46067D9d05CAf93D44A",
+    "status": "active",
+    "id": "0x7E24106829BAbc184548B46067D9d05CAf93D44A",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/AndromedaTokenOfficial"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AndromedaT74485"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/DGSa5CC5"
+        }
+    ]
+}
